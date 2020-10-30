@@ -1,0 +1,13 @@
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.csprojAssemblyReference.cache
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.Properties.Resources.resources
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.csproj.GenerateResource.cache
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.csproj.CoreCompileInputs.cache
+C:\Users\saadi\source\repos\DP_Project\DP_Project\bin\Debug\DP_Project.exe.config
+C:\Users\saadi\source\repos\DP_Project\DP_Project\bin\Debug\DP_Project.exe
+C:\Users\saadi\source\repos\DP_Project\DP_Project\bin\Debug\DP_Project.pdb
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.exe
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.pdb
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.Form1.resources
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.CheckOut.resources
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.Items.AddItems.resources
+C:\Users\saadi\source\repos\DP_Project\DP_Project\obj\Debug\DP_Project.OrderHistory.resources
